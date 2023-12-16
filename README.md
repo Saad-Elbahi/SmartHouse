@@ -6,7 +6,7 @@ The Smart House Application is a web-based system that allows users to control a
 
 - Angular: A powerful JavaScript framework for building responsive and dynamic single-page applications.
 - Spring Boot: A Java-based framework for creating robust and scalable web applications.
-- PostgreSQL: A popular open-source relational database management system for storing application data.
+- MySQL: Relational database management system.
 
 ## Prerequisites
 
